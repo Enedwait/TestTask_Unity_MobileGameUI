@@ -9,6 +9,15 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/[Pp][Ss]-[Pp]rogress[Bb]ar/
+/[Aa]ssets/[Pp][Ss]-[Pp]rogress[Bb]ar.meta
+/[Aa]ssets/[Pp]lugins/
+/[Aa]ssets/[Pp]lugins.meta
+/[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro/
+/[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro.meta
+/[Aa]ssets/[Tt]utorial[Ii]nfo/
+/[Aa]ssets/[Tt]utorial[Ii]nfo.meta
+/[Ii]magesTmp/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

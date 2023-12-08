@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e799eed33a47e464894c3cd750f8a3cf, type: 3}
+  m_Name: DefaultShopData
+  m_EditorClassIdentifier: 
+  <Items>k__BackingField:
+  - <Id>k__BackingField: chest-epic
+    <Category>k__BackingField: Tickets
+    <Name>k__BackingField: Epic Chest
+    <Icon>k__BackingField: chest
+    <Price>k__BackingField: 1.99
+    <Currency>k__BackingField: 0
+    <RequiredLevel>k__BackingField: 0
+    <ProductType>k__BackingField: 0
+    <Content>k__BackingField:
+      _serializedList:
+      - Key: Ticket
+        Value: 500
+  - <Id>k__BackingField: chest-lucky
+    <Category>k__BackingField: Tickets
+    <Name>k__BackingField: Lucky Chest
+    <Icon>k__BackingField: chest
+    <Price>k__BackingField: 4.99
+    <Currency>k__BackingField: 0
+    <RequiredLevel>k__BackingField: 0
+    <ProductType>k__BackingField: 0
+    <Content>k__BackingField:
+      _serializedList:
+      - Key: Ticket
+        Value: 1200
+  - <Id>k__BackingField: chest-eternal
+    <Category>k__BackingField: Tickets
+    <Name>k__BackingField: Eternal Chest
+    <Icon>k__BackingField: chest
+    <Price>k__BackingField: 19.99
+    <Currency>k__BackingField: 0
+    <RequiredLevel>k__BackingField: 0
+    <ProductType>k__BackingField: 0
+    <Content>k__BackingField:
+      _serializedList:
+      - Key: Ticket
+        Value: 10000
+  - <Id>k__BackingField: skin-char1
+    <Category>k__BackingField: Skins
+    <Name>k__BackingField: Character 1
+    <Icon>k__BackingField: character
+    <Price>k__BackingField: 100
+    <Currency>k__BackingField: 1
+    <RequiredLevel>k__BackingField: 5
+    <ProductType>k__BackingField: 1
+    <Content>k__BackingField:
+      _serializedList: []
+  - <Id>k__BackingField: skin-char2
+    <Category>k__BackingField: Skins
+    <Name>k__BackingField: Character 2
+    <Icon>k__BackingField: character
+    <Price>k__BackingField: 500
+    <Currency>k__BackingField: 1
+    <RequiredLevel>k__BackingField: 10
+    <ProductType>k__BackingField: 1
+    <Content>k__BackingField:
+      _serializedList: []
+  - <Id>k__BackingField: skin-char3
+    <Category>k__BackingField: Skins
+    <Name>k__BackingField: Character 3
+    <Icon>k__BackingField: character
+    <Price>k__BackingField: 2000
+    <Currency>k__BackingField: 1
+    <RequiredLevel>k__BackingField: 20
+    <ProductType>k__BackingField: 1
+    <Content>k__BackingField:
+      _serializedList: []
+  - <Id>k__BackingField: location1
+    <Category>k__BackingField: Locations
+    <Name>k__BackingField: Location 1
+    <Icon>k__BackingField: location
+    <Price>k__BackingField: 500
+    <Currency>k__BackingField: 1
+    <RequiredLevel>k__BackingField: 3
+    <ProductType>k__BackingField: 1
+    <Content>k__BackingField:
+      _serializedList: []
+  - <Id>k__BackingField: location2
+    <Category>k__BackingField: Locations
+    <Name>k__BackingField: Location 2
+    <Icon>k__BackingField: location
+    <Price>k__BackingField: 500
+    <Currency>k__BackingField: 1
+    <RequiredLevel>k__BackingField: 5
+    <ProductType>k__BackingField: 1
+    <Content>k__BackingField:
+      _serializedList: []
+  - <Id>k__BackingField: location3
+    <Category>k__BackingField: Locations
+    <Name>k__BackingField: Location 3
+    <Icon>k__BackingField: location
+    <Price>k__BackingField: 500
+    <Currency>k__BackingField: 1
+    <RequiredLevel>k__BackingField: 10
+    <ProductType>k__BackingField: 1
+    <Content>k__BackingField:
+      _serializedList: []
