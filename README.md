@@ -10,7 +10,14 @@ or shortly:
 
 ## Implementation Details
 To perform the task I used the following:
-* Unity
+* Unity 2022
 * Zenject
 * UniRx
-* MVP
+* MVP pattern
+
+## Requisites
+* Zenject
+* UniRx
+* SerializedCollections
+* PS-ProgressBar
+* TextMesh Pro
