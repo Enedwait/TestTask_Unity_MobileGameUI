@@ -1,10 +1,11 @@
 # TestTask_Unity_MobileGameUI
-This is a test assignment I made for one company following the description and Figma prototype accordingly
+This test assignment I made for one company following the description and Figma prototype accordingly.
 ## The Task
 [Test Task (Russian)](http://okrt.xyz/TestTasks/T3FigmaDescription.png)
 
-or shortly: 
-*implement UI like on the provided Figma prototype:*
+Or shortly 
+
+*Implement UI like on the provided Figma prototype:*
 
 [Figma Prototype](http://okrt.xyz/TestTasks/T3FigmaPrototype.png)
 
@@ -16,8 +17,13 @@ To perform the task I used the following:
 * MVP pattern
 
 ## Requisites
+To launch the task properly you need the following:
+* Unity 2022
+  ### Packages
 * Zenject
 * UniRx
 * SerializedCollections
 * PS-ProgressBar
-* TextMesh Pro
+
+#### Thanks for you attention!
+##### 8 Dec 2023 | OKRT | RnD
